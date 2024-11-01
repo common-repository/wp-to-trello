@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wp-to-trello0.1.0\n"
+"POT-Creation-Date: 2020-06-10 09:19+0900\n"
+"PO-Revision-Date: 2020-06-10 09:25+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x;_ex;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: views/sharingTrello-ApiKey-setting.php:2
+msgid "System Settings　Trello API KEY"
+msgstr "システム設定 Trello APIキー"
+
+#: views/sharingTrello-post-setting.php:23
+msgid "System Settings　Trello Post Setting"
+msgstr "システム設定 Trello 投稿設定"
+
+#: views/sharingTrello-post-setting.php:36
+msgid "Target board for card creation"
+msgstr "カード作成対象とするボード"
+
+#: views/sharingTrello-post-setting.php:51
+msgid "submit"
+msgstr "確定"
+
+#: views/sharingTrello-post-setting.php:68
+msgid "Target for creating a card when posting"
+msgstr "投稿時にカード作成対象とするリスト"
+
+#: views/sharingTrello-post-setting.php:86
+msgid "Label when posting"
+msgstr "ラベル"
+
+#: wp-to-trello.php:21
+msgid "You do not have sufficient permissions to access this page."
+msgstr "アクセス権限がありません"
+
+#: wp-to-trello.php:40
+msgid "WP To Trello POST Settings"
+msgstr "WP To Trello 投稿設定"
+
+#: wp-to-trello.php:41
+msgid "POST Settings"
+msgstr "投稿設定"
+
+#: wp-to-trello.php:47
+msgid "WP To Trello API KEY"
+msgstr "API KEY"
+
+#: wp-to-trello.php:48
+msgid "API KEY"
+msgstr "API KEY"
